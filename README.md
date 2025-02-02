@@ -4,27 +4,31 @@
 
 ### About Me
 
-Husband, Dad, Trekkie, Microsoft #Azure MVP, and Azure Architect at Avanade UK.
+Husband, Dad, Trekkie, Microsoft #Azure MVP, Cloud Architect, Consultant, and Engineer.
+
+Passionate DevOps, Cloud, and Cloud Native Advocate, Lifelong Learner, and helper of people.
+
+Working at Avanade US.
 
 ---
 
 ### Community
 
-Blogging at [irishtechie.cloud](http://irishtechie.cloud). Co-organiser at [Limerick DotNet & Azure User Group (LDNA)](https://www.meetup.com/Limerick-DotNet/), Co-Founder and Co-organiser at [#AzureCloudNative](https://www.meetup.com/azure-cloud-native/)
+Blogging at [engineeringclouds.io](https://engineeringclouds.io/).
+Co-host of Cloud Native Weekly, available on [YouTube](https://www.youtube.com/@CloudNativeWeekly) and [Spotify](https://open.spotify.com/show/2W2t1ewZNOdXhCLdCXxd6x).
 
 ---
 
 ### My GitHub Stats!!
 
-![Karl Cooke GitHub Stats](https://github-readme-stats.vercel.app/api?username=irishtechie&show_icons=true&count_private=true)
+![Karl Cooke GitHub Stats](https://github-readme-stats.vercel.app/api?username=engineeringclouds&show_icons=true&count_private=true)
 
 ---
 
 ### Let's Connect!!
 
-- <a href="https://irishtechie.cloud" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-irishtechie.cloud-blue?style=flat&logo=google-chrome"></a>
+- <a href="https://engineeringclouds.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-engineeringclouds.io-blue?style=flat&logo=google-chrome"></a>
 - <a href="https://www.linkedin.com/in/karlcooke/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@karlcooke-blue?style=flat&logo=linkedin"></a>
-- <a href="https://twitter.com/karl_itnerd" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Karl_ITNerd?style=social"></a>
 
 ---
 <!--
